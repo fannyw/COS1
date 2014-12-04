@@ -1,0 +1,22 @@
+HKU FO FIES - FLRS Data Extraction
+
+80:
+HKU FO FIES - FLDFS Summary Balance Extraction (80)
+10 	HKU Check Pending Request Output for FTP
+80	HKU FO FIES - FLDFS Summary Balance Extraction
+
+100:
+10:	HKU Check Pending Request Output for FTP
+
+HKU FO FIES - FLDFS Summary Balance Extraction (80)
+
+HKU Printed Order List [New] (Order value HK$50,000 or below)
+
+select argument4 
+from fnd_concurrent_requests
+where concurrent_program_id = 34601
+and phase_code = 'C' and status_code = 'C'
+and request_id = 	(select max(request_id) 
+				from fnd_concurrent_requests
+				where concurrent_program_id = 34601
+				and phase_code = 'C' and status_code = 'C')
