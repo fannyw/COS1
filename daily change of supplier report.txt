@@ -1,0 +1,65 @@
+Date:  01-DEC-2014a                                         The University of Hong Kong -- Finance and Enterprises Office                                              Page:      1
+                                                              Daily Report on Change of Bank Details of Vendor Records
+
+
+
+ Vendor No.      Vendor Name  (Before)     Site Name (Before)  Bank A/C No. (Before) Bank A/C Name (Before)  End Date    P  Action Unit Last        Last            Remarks
+                              (After)                (After)                (After)                (After)               F              Updated By  Updated Date
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ V00616363       ---                       ---                 ---                   ---                     ---         --        ---  ---
+                 Ever Come Trading Co Ltd*                     --1234567890456*      test 456*                           Y* Create Co   NCCDEV      01-12-2014 11:05
+
+
+ v123123         ---                       ---                 ---                   ---                     ---         --        ---  ---
+                 test 123*                                     --1234567890123*      test 123*                           Y* Create Co   NCCDEV      28-11-2014 17:09
+
+
+                 ---                       ---                 ---                   ---                     ---         --        ---  ---
+                                                               --1234567890123*      test 123*                              Create Co   NCCDEV      28-11-2014 16:51
+
+
+                 ---                       ---                 ---                   ---                     ---         --        ---  ---
+                                                               --1234567890456*      test 456*                              Create Co   NCCDEV      01-12-2014 11:03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     * - Data Amended
+
